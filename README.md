@@ -33,3 +33,7 @@
 [![CloudFlare配置](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example/16.png "")]([https://markdown.com.cn](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example/16.png))
 [![CloudFlare配置](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example/17.png "")]([https://markdown.com.cn](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example/17.png))
 [![CloudFlare配置](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example/18.png "")]([https://markdown.com.cn](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example/18.png))
+
+使用参数解析：
+ ---tl 强制翻译
+ ---ntl 强制不翻译
