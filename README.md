@@ -15,4 +15,4 @@
 
  SF_TOKEN为硅基流动平台的api token，需要提前申请，不使用可不填写。
 
-
+[![CloudFlare配置](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example-1.png "")]([https://markdown.com.cn](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example-1.png))
