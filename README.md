@@ -9,7 +9,12 @@
  
  五种可选文生图模型，默认SD-XL-Bash-CF，推荐FLUX.1-Schnell-CF 效果最好，但有每日使用限制
 
- 部署该脚本需要绑定Workers AI，增加KV命名空间并绑定到IMAGE_KV。
+ 创建kv命名空间 txt2img ,并绑定到IMAGE_KV ，注意名字需一致。
+
+|类型        | 名称         | 值          |
+| ---------- | ----------- |--------------|
+|Workers AI   | AI         |Workers AI 目录|
+|KV 命名空间  | IMAGE_KV    | txt2img      |
 
  接口格式兼容openai，可在任意支持openai的客户端内使用。
 
