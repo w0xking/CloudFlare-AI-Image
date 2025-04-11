@@ -7,7 +7,7 @@
 -  "FLUX.1-Schnell-CF": "@cf/black-forest-labs/flux-1-schnell"
 -  "SF-Kolors": "Kwai-Kolors/Kolors"
  
- 五种可选文生图模型，默认SD-XL-Bash-CF，推荐FLUX.1-Schnell-CF 效果最好，但有每日使用限制
+ 五种可选文生图模型，默认SD-XL-Bash-CF，推荐FLUX.1-Schnell-CF 效果最好，但有每日使用限制1000token
 
  创建kv命名空间 txt2img ,并绑定到IMAGE_KV ，注意名字需一致。
 
@@ -17,7 +17,10 @@
 |KV 命名空间  | IMAGE_KV    | txt2img      |
 
  接口格式兼容openai，可在任意支持openai的客户端内使用。
-
+ 可用webui浏览器扩展，或者nextchat等支持openAI api的应用使用。
+[chrome浏览器](https://chromewebstore.google.com/detail/page-assist-%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%9A%84-web/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
+[edge浏览器](https://microsoftedge.microsoft.com/addons/detail/page-assist-a-web-ui-fo/ogkogooadflifpmmidmhjedogicnhooa?hl=zh-CN）
+ 
  SF_TOKEN为硅基流动平台的api token，需要提前申请，不使用可不填写。
 
 [![CloudFlare配置](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example/01.png "")]([https://markdown.com.cn](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Image/refs/heads/main/example/01.png))
