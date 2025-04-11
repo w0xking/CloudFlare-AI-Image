@@ -18,8 +18,8 @@
 
  接口格式兼容openai，可在任意支持openai的客户端内使用。
  可用webui浏览器扩展，或者nextchat等支持openAI api的应用使用。
-[chrome浏览器](https://chromewebstore.google.com/detail/page-assist-%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%9A%84-web/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
-[edge浏览器](https://microsoftedge.microsoft.com/addons/detail/page-assist-a-web-ui-fo/ogkogooadflifpmmidmhjedogicnhooa?hl=zh-CN）
+[chrome浏览器扩展](https://chromewebstore.google.com/detail/page-assist-%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%9A%84-web/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
+[edge浏览器扩展](https://microsoftedge.microsoft.com/addons/detail/page-assist-a-web-ui-fo/ogkogooadflifpmmidmhjedogicnhooa?hl=zh-CN)
  
  SF_TOKEN为硅基流动平台的api token，需要提前申请，不使用可不填写。
 
